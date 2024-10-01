@@ -49,4 +49,5 @@ O código fonte da aplicação está disponível no GitHub: [Link do Repositóri
 
 ## 11. Autor
 <img src="https://github.com/Poliester2005.png" width="100" height="100" alt="Foto de Perfil"/> 
+
 - **GitHub:** [Poliester2005](https://github.com/Poliester2005)
