@@ -18,7 +18,24 @@ Um exemplo de uso do sistema é a execução do programa, onde os movimentos sã
 ## 4. Conclusão
 O uso de realidade virtual no treinamento de cirurgiões laparoscópicos é uma inovação promissora, oferecendo a oportunidade de prática segura e repetitiva. Os resultados da simulação demonstraram que a aplicação pode servir como uma ferramenta eficaz para o desenvolvimento de habilidades cirúrgicas. Futuras melhorias podem incluir a implementação de gráficos em tempo real e feedback visual para os cirurgiões durante a simulação.
 
-## 5. Referências
+## 5. Estruturas de Dados
+O projeto inclui um arquivo chamado `estrutura.py`, que contém a definição das estruturas de dados utilizadas na aplicação. 
+
+## 6. Simulação do Sistema
+O arquivo `main.py` é responsável por simular o funcionamento do sistema, incluindo a execução das simulações e a avaliação dos desempenhos.
+
+## 7. Diagrama de Fluxos de Dados
+Uma imagem contendo o diagrama de fluxos de dados está disponível no repositório, ilustrando o funcionamento do sistema.
+
+## 8. Membros do Grupo
+Os membros do grupo são:
+- Eduardo Pielich Sanchez
+- David Dennuci
+- Pedro Henrique Angelo Crispim de Almeida Teixeira
+- Manoella Herrerias Waideman
+- Victor Hugo Andrade
+
+## 9. Referências
 1. **"Virtual Reality in Surgery: A Comprehensive Guide"**  
    Autor: M. R. F. Ali  
    Uma introdução abrangente sobre o uso de VR em diferentes especialidades cirúrgicas, incluindo laparoscopia.
@@ -27,10 +44,9 @@ O uso de realidade virtual no treinamento de cirurgiões laparoscópicos é uma 
    Autores: A. M. D. H. P. P. D. B. M. F. G. A.  
    Publicado na *Journal of Surgical Education*, discute como a simulação em VR pode melhorar as habilidades laparoscópicas.
 
-## 6. Código no GitHub
-O código fonte da aplicação está disponível no GitHub: [Link do Repositório](https://github.com/username/repository).
+## 10. Código no GitHub
+O código fonte da aplicação está disponível no GitHub: [Link do Repositório](https://github.com/Poliester2005/dynamic).
 
-## 7. Autor
+## 11. Autor
 <img src="https://github.com/Poliester2005.png" width="100" height="100" alt="Foto de Perfil"/> 
- 
 - **GitHub:** [Poliester2005](https://github.com/Poliester2005)
